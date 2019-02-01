@@ -47,3 +47,7 @@ To change database connection open app/config.py and configure
 
 	config['MONGO_DBNAME'] = 'flaskblog'
 	config['MONGO_URI'] = 'mongodb://localhost:27017/flaskblog'
+	
+##### Full tutorial documentation is available on devstudioonline:
+
+[Python Flask MVC Sample App Example](https://devstudioonline.com/article/create-python-flask-app-in-mvc-format) 
